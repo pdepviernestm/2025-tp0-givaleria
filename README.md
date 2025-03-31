@@ -11,12 +11,21 @@ Les presento a Charlie, uno de los avatar que estamos usando ultimamente para es
 
 ---
 
-#### Intereses personales
+### Hobbies
 
-Me principal hobbie es entrenar, paso gran parte de mis dias en el gym, hago boxeo 🥊 y un entrenamiento particular del gimnasio donde voy, llamado Primitive Training - Macebells & Clubbells. 🏋️‍♀️
+- Mi principal hobbie es entrenar, paso gran parte de mis dias en el gym, hago boxeo 🥊 y un entrenamiento particular del gimnasio donde voy, llamado Primitive Training - Macebells & Clubbells. 🏋️‍♀️
+
+<img src="gym.jpeg" width="300">
 
 
-
-Mi segundo hobbie favorito son los videojuegos, el poco tiempo libre que tengo me gusta pasarlo jugando sola o con amigos cuando pueden tambien. Mayormente estoy en GTA Online, les comparto una foto de mi personaje 🥰
+- Mi segundo hobbie favorito son los videojuegos, el poco tiempo libre que tengo me gusta pasarlo jugando, sola o con amigos cuando pueden tambien. Mayormente estoy en GTA Online, les comparto una foto de mi personaje 🥰
 
 ![Texto alternativo](jane.png)
+
+---
+
+### Otros
+
+- Me gusta mirar series/pelis de generos policiales o thrillers psicologicos mas que nada. 
+- Gran fan de la Formula 1 🏎️❤️
+- Escucho musica practicamente todo el dia, casi siempre en inglés.
